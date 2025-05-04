@@ -1,0 +1,2 @@
+# goruntu_isleme_odevi
+Görüntü_İşleme_Ödevi
